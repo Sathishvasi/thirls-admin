@@ -56,7 +56,9 @@ button,
 input[type='button'] {
     cursor: pointer;
 }
-
+table.dataTable thead th{
+    text-transform: capitalize;
+}
 button:focus,
 input:focus,
 textarea:focus {
